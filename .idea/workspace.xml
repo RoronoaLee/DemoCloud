@@ -1,44 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="29a4ba64-3685-4c27-afbb-0c20f9206aab" name="Default Changelist" comment="" />
+    <list default="true" id="29a4ba64-3685-4c27-afbb-0c20f9206aab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utils/SSLClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utils/HttpClientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/HttpClientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-=======
-    <list default="true" id="44b355e4-2859-4610-9dd3-840fe3d8d14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" afterDir="false" />
-    </list>
->>>>>>> ljfirst-master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
-<<<<<<< HEAD
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-=======
     <option name="isMigrated" value="true" />
->>>>>>> ljfirst-master
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/http/TestHttp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#710#726#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+            <state relative-caret-position="363">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3456">
+              <caret line="192" column="36" lean-forward="true" selection-start-line="192" selection-start-column="36" selection-end-line="192" selection-end-column="36" />
+              <folding>
+                <element signature="e#14141#14145#0" expanded="true" />
+                <element signature="e#14145#14149#0" expanded="true" />
+                <element signature="e#14149#14153#0" expanded="true" />
+                <element signature="e#14153#14157#0" expanded="true" />
+                <element signature="e#14157#14161#0" expanded="true" />
+                <element signature="e#14161#14165#0" expanded="true" />
+                <element signature="e#14165#14169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/SSLClient.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
               </folding>
-=======
-            <state relative-caret-position="234">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
->>>>>>> ljfirst-master
             </state>
           </provider>
         </entry>
@@ -46,33 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/HttpClientFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-86">
-<<<<<<< HEAD
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-=======
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
->>>>>>> ljfirst-master
+            <state relative-caret-position="226">
+              <caret line="48" column="32" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1181#1182#0" expanded="true" />
-                <element signature="e#1210#1211#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -81,34 +112,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="fly &lt;linhaifly@163.com&gt;" />
-      </list>
-    </option>
     <option name="UPDATE_TYPE" value="REBASE" />
-=======
-  <component name="Git.Settings">
->>>>>>> ljfirst-master
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/utils/HttpMethod.java" />
         <option value="$PROJECT_DIR$/src/com/utils/fffff.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/utils/fffff.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utils/HttpClientFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/http/GetHttpsClientFactory.java" />
-=======
->>>>>>> ljfirst-master
+        <option value="$PROJECT_DIR$/src/main/java/com/utils/SSLClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/http/TestHttp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" />
       </list>
     </option>
   </component>
-<<<<<<< HEAD
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -120,8 +141,6 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-=======
->>>>>>> ljfirst-master
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -130,43 +149,66 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -174,8 +216,28 @@
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="vmm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -183,31 +245,28 @@
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-<<<<<<< HEAD
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoVMM" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="http" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DemoVMM" type="b2602c69:ProjectViewProjectNode" />
-=======
->>>>>>> ljfirst-master
+              <item name="DemoCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -215,11 +274,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
@@ -234,8 +293,8 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
     </key>
-=======
->>>>>>> ljfirst-master
+    =======
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; ljfirst-master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,11 +308,30 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TestHttp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.http.TestHttp" />
+      <module name="DemoVMM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestHttp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-<<<<<<< HEAD
     <task active="true" id="Default" summary="Default task">
       <changelist id="29a4ba64-3685-4c27-afbb-0c20f9206aab" name="Default Changelist" comment="" />
       <created>1565575611469</created>
@@ -304,53 +382,54 @@
       <option name="project" value="LOCAL" />
       <updated>1565588861256</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="...">
+      <created>1565600586918</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565600586918</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8526000" />
-=======
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132000" />
->>>>>>> ljfirst-master
+    <option name="totallyTimeSpent" value="680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
-<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -359,7 +438,8 @@
     <MESSAGE value="first code line." />
     <MESSAGE value="add http and external lib" />
     <MESSAGE value="add main and test." />
-    <option name="LAST_COMMIT_MESSAGE" value="add main and test." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DemoVMM.iml">
@@ -403,12 +483,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/HttpClientFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="226">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -434,13 +512,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3456">
+          <caret line="192" column="36" lean-forward="true" selection-start-line="192" selection-start-column="36" selection-end-line="192" selection-end-column="36" />
+          <folding>
+            <element signature="e#14141#14145#0" expanded="true" />
+            <element signature="e#14145#14149#0" expanded="true" />
+            <element signature="e#14149#14153#0" expanded="true" />
+            <element signature="e#14153#14157#0" expanded="true" />
+            <element signature="e#14157#14161#0" expanded="true" />
+            <element signature="e#14161#14165#0" expanded="true" />
+            <element signature="e#14165#14169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/SSLClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/http/TestHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -520,6 +634,4 @@
       </state>
     </states>
   </component>
-=======
->>>>>>> ljfirst-master
 </project>

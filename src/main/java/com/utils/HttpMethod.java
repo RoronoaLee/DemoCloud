@@ -36,15 +36,15 @@ public class HttpMethod {
         }
 
         HttpClientContext context = HttpClientContext.create();
-        HttpHost target = new HttpHost(hostname, port, "https");
-        CloseableHttpResponse response = httpClient.execute(target, httpGet, context);
+//        HttpHost target = new HttpHost(hostname, port, "https");
+        CloseableHttpResponse response = httpClient.execute(httpGet, context);
 
         try {
             entity = response.getEntity();
         } finally {
             response.close();
         }
-
+        System.out.println(entity);
         return entity;
     }
 

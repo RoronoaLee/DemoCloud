@@ -31,6 +31,7 @@ public class TestHttp {
 
         try {
             InputStream inSm = entity.getContent();
+            System.out.println(inSm);
             BufferedReader br = new BufferedReader(new InputStreamReader(inSm,
                     "UTF-8"));
             String data = "";

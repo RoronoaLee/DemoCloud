@@ -21,7 +21,7 @@ public class HttpClientFactory {
 
     private static CloseableHttpClient client;
 
-    public static HttpClient getHttpsClient() throws Exception {
+    public static HttpClient getHttpsClientWithoutAuth() throws Exception {
 
         if (client != null) {
             return client;
