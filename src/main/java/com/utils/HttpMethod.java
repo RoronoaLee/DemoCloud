@@ -26,7 +26,7 @@ public class HttpMethod {
     }
 
     public static HttpEntity httpsGet(CloseableHttpClient httpClient, String url, HashMap<String,
-            String> hashMap, String hostname) throws ClientProtocolException, IOException {
+            String> hashMap, String hostname, int port) throws ClientProtocolException, IOException {
 
         HttpEntity entity = null;
         HttpGet httpGet = new HttpGet(url);
@@ -35,8 +35,9 @@ public class HttpMethod {
             httpGet.setHeader(entry.getKey(), entry.getValue());
         }
 
-        HttpHost target = new HttpHost(hostname, 80, "https");
-        CloseableHttpResponse response = httpClient.execute(target, httpGet);
+        HttpClientContext context = HttpClientContext.create();
+        HttpHost target = new HttpHost(hostname, port, "https");
+        CloseableHttpResponse response = httpClient.execute(target, httpGet, context);
 
         try {
             entity = response.getEntity();
@@ -67,7 +68,7 @@ public class HttpMethod {
         context.setCredentialsProvider(credsProvider);
 
         HttpHost target = new HttpHost(hostname, port, "https");
-        CloseableHttpResponse response = httpClient.execute(target, httpGet);
+        CloseableHttpResponse response = httpClient.execute(target, httpGet, context);
 
         try {
             entity = response.getEntity();
