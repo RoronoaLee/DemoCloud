@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a4ba64-3685-4c27-afbb-0c20f9206aab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/http/GetHttpsClientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/HttpMethod.java" afterDir="false" />
-    </list>
+    <list default="true" id="29a4ba64-3685-4c27-afbb-0c20f9206aab" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -227,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565575611469</updated>
-      <workItem from="1565575615273" duration="8277000" />
+      <workItem from="1565575615273" duration="8526000" />
     </task>
     <task id="LOCAL-00001" summary="first submit.">
       <created>1565577061773</created>
@@ -275,7 +272,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8277000" />
+    <option name="totallyTimeSpent" value="8526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
