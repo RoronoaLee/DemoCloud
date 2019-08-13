@@ -15,7 +15,10 @@ import org.apache.http.impl.client.BasicCredentialsProvider;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.message.BasicHeader;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -41,7 +44,16 @@ public class HttpMethod {
 
         try {
             entity = response.getEntity();
+            InputStream inSm = entity.getContent();
+            System.out.println(inSm);
+            BufferedReader br = new BufferedReader(new InputStreamReader(inSm,
+                    "UTF-8"));
+            String data = "";
+            while ((data = br.readLine()) != null) {
+                System.out.println(data);
+            }
         } finally {
+
             response.close();
         }
         System.out.println(entity);

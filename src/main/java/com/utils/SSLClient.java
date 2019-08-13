@@ -33,6 +33,6 @@ public class SSLClient extends DefaultHttpClient {
         SSLSocketFactory ssf = new SSLSocketFactory(ctx,SSLSocketFactory.ALLOW_ALL_HOSTNAME_VERIFIER);
         ClientConnectionManager ccm = this.getConnectionManager();
         SchemeRegistry sr = ccm.getSchemeRegistry();
-        sr.register(new Scheme("https", 80, ssf));
+        sr.register(new Scheme("https", 443, ssf));
     }
 }
